@@ -11,12 +11,12 @@
     { "id": "dips",              "name": "Dips",                   "category": "push", "defaultWeight": 0,  "gtg": false },
     { "id": "pull-ups",          "name": "Pull ups",               "category": "pull", "defaultWeight": 0,  "gtg": true  },
     { "id": "squats",            "name": "Squats",                 "category": "legs", "defaultWeight": 0,  "gtg": false },
-    { "id": "bulgarian-split",   "name": "Bulgarian split squats", "category": "legs", "defaultWeight": 0,  "gtg": false },
+    { "id": "bulgarian-split",   "name": "Bulgarian split squats", "category": "legs", "defaultWeight": 30, "gtg": false },
     { "id": "leg-raises",        "name": "Leg raises",             "category": "core", "defaultWeight": 0,  "gtg": false },
     { "id": "push-ups",          "name": "Push ups",               "category": "push", "defaultWeight": 0,  "gtg": true  },
-    { "id": "lateral-raises",    "name": "Lateral raises",         "category": "push", "defaultWeight": 8,  "gtg": false },
+    { "id": "lateral-raises",    "name": "Lateral raises",         "category": "push", "defaultWeight": 15, "gtg": false },
     { "id": "chin-ups",          "name": "Chin ups",               "category": "pull", "defaultWeight": 0,  "gtg": false },
-    { "id": "bicep-curls",       "name": "Bicep curls",            "category": "pull", "defaultWeight": 12, "gtg": false },
-    { "id": "tricep-extensions", "name": "Tricep extensions",      "category": "push", "defaultWeight": 10, "gtg": false }
+    { "id": "bicep-curls",       "name": "Bicep curls",            "category": "pull", "defaultWeight": 15, "gtg": false },
+    { "id": "tricep-extensions", "name": "Tricep extensions",      "category": "push", "defaultWeight": 0,  "gtg": false }
   ]
 }
