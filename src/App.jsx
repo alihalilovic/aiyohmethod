@@ -41,7 +41,7 @@ function useMidnightRollover(day, setDay) {
 }
 
 export default function App() {
-  const [tab, setTab] = useState('today')
+  const [tab, setTab] = useState('gtg')
   const [day, setDay] = useState(dayKey)
   const theme = useStore((s) => s.settings.theme)
 
